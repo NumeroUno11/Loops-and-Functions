@@ -101,8 +101,8 @@ def exit():
 
         return random.randrange (1111111111, 9999999999)
 
-  #      def logout():
-        #login()
+        def logout():
+        login()
 
     print(generateAccountNumber()) 
 
